@@ -16,10 +16,12 @@ baseurl = "/"
 copyright = "Vunb &copy; {year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-48010057-5"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = "vunb"
+
+#publishDir = "docs"
 
 ############################
 ## Advanced options below ##

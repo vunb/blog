@@ -21,7 +21,9 @@
 
 Prerequisites:
 
-> choco install hugo-extended
+> git submodule update --init --recursive  
+> choco install hugo-extended  
+> hugo server -D
 
 You can choose from one of the following four methods to install:
 

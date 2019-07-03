@@ -1,3 +1,27 @@
+---
+title: AMR - Tiến tới tương lai chuyển hóa tri thức
+date: 2017-09-27T00:00:00Z
+draft: true
+share: true
+
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 2
+tags:
+- AMR
+- Guidelines
+- amrisi
+categories:
+- NLP
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
+---
+
 https://github.com/amrisi/amr-guidelines/blob/master/amr.md
 https://amr.isi.edu/
 

@@ -1,11 +1,26 @@
 ---
-layout: post
 title: Chatbots - Thiết kế các intents và entities cho các mô hình NLP
-category: Chatbots
-tags: chatbot-design
----
+date: 2017-08-27T00:00:00Z
+draft: false
+share: true
 
-![chatbots and design intents](/img/chatbots-design-intents-entities.jpg)
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 2
+tags:
+- Chatbot Design
+- Text Classification
+- NER
+categories:
+- Chatbots
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: "chatbots-design-intents-entities.jpg"
+---
 
 Chìa khóa để cho một con bot có thể hiểu được con người là nó phải có khả năng hiểu các ý định của con người và trích xuất các thông tin liên quan từ ý định đó và tất nhiên có các hành động đáp ứng tương thích với thông tin đó.
 

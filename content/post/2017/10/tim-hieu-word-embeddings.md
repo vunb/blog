@@ -1,9 +1,27 @@
 ---
-layout: post
 title: Tìm hiểu trực quan về Word Embeddings - Từ Count Vectors đến Word2Vec
-category: nlp
-tags: text-representations word-embeddings deep-learning
+date: 2017-10-16T00:00:00Z
+draft: true
+share: true
 ref: https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
+
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 2
+tags:
+- Neural Networks
+- Word Embeddings
+- Text Representations
+- Word2Vec
+categories:
+- NLP
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
 ---
 
 Trước khi bắt đầu, hãy xem xét các ví dụ dưới đây:

@@ -1,9 +1,25 @@
 ---
-layout: post
 title: Biểu diễn văn bản trong Machine Learning sử dụng scikit-learn
-category: nlp
-tags: text-representations
+date: 2017-09-29T00:00:00Z
+draft: true
+share: true
 ref: https://machinelearningmastery.com/prepare-text-data-machine-learning-scikit-learn/
+
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 2
+tags:
+- Text Representations
+- Machine Learning
+categories:
+- NLP
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
 ---
 
 Dữ liệu văn bản yêu cậu sự chuẩn bị đặc biết trước khi chúng ta đưa nó vào sử dụng trong các mô hình dự đoán.

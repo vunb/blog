@@ -1,9 +1,24 @@
 ---
-layout: post
 title: Tìm hiểu mô hình CRF - Conditional Random Fields
-category: nlp
-tags: machine-learning
+date: 2017-10-11T00:00:00Z
+draft: true
+share: true
 ref: http://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/
+
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 2
+tags:
+- Machine Learning
+categories:
+- NLP
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
 ---
 
 Hãy tưởng tượng bạn có một chuỗi các bức ảnh sinh hoạt hàng ngày của cô vợ mình tên là **Anna**, và bạn muốn dán nhãn *hoạt động* đại diện cho mỗi bức ảnh (ví dụ như: đang ăn, đang ngủ, đang lái xe, v.v.). Bạn sẽ làm như nào ?

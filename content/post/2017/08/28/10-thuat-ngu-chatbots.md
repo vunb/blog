@@ -1,11 +1,26 @@
 ---
-layout: post
 title: Chatbots - 10 thuật ngữ cần biết
-category: Chatbots
-tags: chatbot-design
----
+date: 2017-08-28T00:00:00Z
+draft: false
+share: true
 
-![10 thuật ngữ chatbots cần biết](/img/chatbots-intent-entity-utterances.png)
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 2
+tags:
+- Utterances
+- Intents
+- Entities
+categories:
+- Chatbots
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: "chatbots-intent-entity-utterances.png"
+---
 
 Có thể khi tìm hiểu về chatbots và xử lý ngôn ngữ tự nhiên, sẽ có nhiều từ vựng hay các thuật ngữ làm cho bạn cảm thấy khó hình dung, hoặc cảm thấy dễ bị lẫn lộn với nhau. Sau đây là 10 thuật ngữ mà chúng ta cần biết và phân biệt chúng khi nghiên cứu và tìm hiểu về chatbots.
 

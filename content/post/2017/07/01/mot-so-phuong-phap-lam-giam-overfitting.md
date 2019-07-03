@@ -1,8 +1,24 @@
 ---
-layout: post
 title: Một số phương pháp làm giảm hiện tượng Overfitting
-category: neural-networks
-tags: neural-networks overfitting
+date: 2017-07-01T00:00:00Z
+draft: false
+share: true
+
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 2
+tags:
+- artificial intelligence 
+- overfitting
+categories:
+- Neural Networks
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
 ---
 
 Một số các phương pháp làm giảm hiện tượng quá khớp trong quá trình huấn luyện mạng nơ-ron.

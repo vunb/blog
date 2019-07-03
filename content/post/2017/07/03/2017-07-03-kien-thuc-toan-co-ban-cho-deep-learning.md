@@ -1,8 +1,26 @@
 ---
-layout: post
 title: Kiến thức toán học cơ bản để làm việc với Deep learning
-category: deep-learning
-tags: neural-networks machine-learning deep-learning
+date: 2017-07-03T00:00:00Z
+draft: false
+share: true
+
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 2
+tags:
+- Neural Networks
+- Machine Learning
+- Deep Learning
+categories:
+- Neural Networks
+- Deep Learning
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
 ---
 
 Trước khi bắt đầu vào việc học mạng nơ-ron và deep learning, chúng ta cũng cần chuẩn bị một số kiến thức nền tảng của toán học cần thiết. Một vài chủ đề toán học quan trọng để chúng ta có thể hiểu được các chủ đề trong phương pháp học nhiều tầng **Deep learning**.

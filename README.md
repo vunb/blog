@@ -19,6 +19,10 @@
 
 ## Install
 
+Prerequisites:
+
+> choco install hugo-extended
+
 You can choose from one of the following four methods to install:
 
 * [**one-click install using your web browser (recommended)**](https://sourcethemes.com/academic/docs/install/#install-with-web-browser)

@@ -10,8 +10,8 @@ share: true
 #   3 = Card
 view: 2
 tags:
-- artificial intelligence 
-- overfitting
+- Artificial Intelligence
+- Overfitting
 categories:
 - Neural Networks
 

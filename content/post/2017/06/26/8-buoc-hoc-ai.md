@@ -10,7 +10,7 @@ share: false
 #   3 = Card
 view: 2
 tags:
-- artificial intelligence 
+- Artificial Intelligence
 - howto
 categories:
 - General

@@ -47,7 +47,7 @@ subtitle = "The face of the world is changing from GUI to VUI."
  css_class = ""
 +++
 
-Criteria for *logs* and *fields* content written in this blog:
+Criteria for posts content written in this blog:
 
 - Experiment software technologies, evaluating solutions & taking note of techniques and implementation steps
 - Evaluate, comment on software solutions, data mining and artificial intelligence

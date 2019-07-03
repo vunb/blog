@@ -10,10 +10,10 @@ share: false
 #   3 = Card
 view: 2
 tags:
-- tensorflow
-- chatbots
-- word-embeddings
-- seq2seq
+- Tensorflow
+- Chatbots
+- Word Embeddings
+- Seq2Seq
 categories:
 - Chatbots
 

@@ -61,6 +61,10 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   quality = 90
   anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
 
+[params]
+  highlight = true
+  highlight_languages = ["typescript", "haskell"]
+
 # Taxonomies.
 [taxonomies]
   tag = "tags"

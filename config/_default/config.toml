@@ -63,7 +63,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 [params]
   highlight = true
-  highlight_languages = ["typescript", "haskell"]
+  highlight_languages = ["typescript"]
 
 # Taxonomies.
 [taxonomies]

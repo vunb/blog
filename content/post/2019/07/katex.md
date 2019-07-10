@@ -17,9 +17,7 @@ categories:
 
 ---
 
-Cấu hình Hugo sử dụng `katex` và `mmark`. Không khó lắm, mất khoảng 15 phút là làm được.
-
-Sau khi cài đặt xong thì giờ quan tâm tới cách sử dụng thôi :smile:
+Cấu hình Hugo sử dụng `katex` và `mmark`. Không khó lắm, mất khoảng 15 phút là làm được. Sau khi cài đặt xong thì giờ quan tâm tới cách sử dụng thôi :smile:
 
 ### Display Block
 Type equation on a single line, with top and bottom spaces. Use double dollar signs as delimiter.

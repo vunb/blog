@@ -1,8 +1,8 @@
 ---
 title: Tìm hiểu về độ đo BLEU
 date: 2019-07-10T00:00:00Z
-draft: true
-share: false
+draft: false
+share: true
 katex: true
 markup: "mmark"
 
@@ -112,9 +112,14 @@ print('Cumulative 4-gram: %f' % sentence_bleu(reference, candidate, weights=(0.2
 
 Bạn có thể đọc thêm paper [BLEU: a Method for Automatic Evaluation of Machine Translation](http://www.aclweb.org/anthology/P02-1040.pdf), Work examples trong [bài gốc](https://machinelearningmastery.com/calculate-bleu-score-for-text-python/) để hiểu rõ hơn về BLEU.
 
+## Acknowledgment
+
+Nguồn bài viết của: [Trung Nghĩa](https://github.com/lego1st)
+
+* Source: [101 BLEU score trong Xử lý văn bản](https://lego1st.github.io/nlp/mlearning/2019/02/16/bleu-101.html)
+
 ## References
 
-* [101 BLEU score trong Xử lý văn bản](https://lego1st.github.io/nlp/mlearning/2019/02/16/bleu-101.html)
 * [A Gentle Introduction to Calculating the BLEU Score for Text in Python](https://machinelearningmastery.com/calculate-bleu-score-for-text-python/)
 * [BLEU - Wikipedia](https://en.wikipedia.org/wiki/BLEU)
 * [BLEU: a Method for Automatic Evaluation of Machine Translation](http://www.aclweb.org/anthology/P02-1040.pdf)

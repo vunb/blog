@@ -10,8 +10,8 @@ share: false
 #   3 = Card
 view: 2
 tags:
-- tensorflow
-- howto
+- Tensorflow
+- Howto
 categories:
 - Tensorflow
 

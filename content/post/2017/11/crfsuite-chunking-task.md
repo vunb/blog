@@ -3,6 +3,7 @@ title: CRFSuite - Tìm hiểu và ứng dụng với task Chunking
 date: 2017-11-05T00:00:00Z
 draft: false
 share: true
+ad: true
 ref: http://www.chokkan.org/software/crfsuite/tutorial.html
 
 # View.

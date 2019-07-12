@@ -1,4 +1,6 @@
 {{ if .Params.katex }}
 {{ partial "katex.html" . }}
 {{ end }}
-
+{{ if or (ne .Params.ad false) .IsHome }}
+{{ partial "adsense.html" . }}
+{{ end }}

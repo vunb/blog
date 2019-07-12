@@ -3,6 +3,7 @@ title: Katex
 date: 2019-07-10T00:00:00Z
 draft: false
 share: false
+ad: true
 katex: true
 markup: "mmark"
 

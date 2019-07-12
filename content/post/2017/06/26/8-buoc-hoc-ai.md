@@ -11,7 +11,7 @@ share: false
 view: 2
 tags:
 - Artificial Intelligence
-- howto
+- Howto
 categories:
 - General
 

@@ -1,7 +1,7 @@
 [submodule "themes/academic"]
 	path = themes/academic
 	url = https://github.com/vunb/hugo-academic.git
-[submodule "public"]
-	path = public
-	url = https://github.com/vunb/vunb.github.io.git
-	branch = master
+#[submodule "public"]
+#	path = public
+#	url = https://github.com/vunb/vunb.github.io.git
+#	branch = master

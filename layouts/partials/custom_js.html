@@ -9,6 +9,6 @@
   <!-- config ads -->
   <!-- {{ if or (ne .Params.ad false) .IsHome }} -->
   */}}
-{{ if ne .Params.ad false }}
+{{ if and (ne .Params.ad false) (ne .IsHome true) }}
 {{ partial "adsense.html" . }}
 {{ end }}

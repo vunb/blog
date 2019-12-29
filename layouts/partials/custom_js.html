@@ -1,6 +1,14 @@
+{{/*
+  <!-- add ktex -->
+  */}}
 {{ if .Params.katex }}
 {{ partial "katex.html" . }}
 {{ end }}
-{{ if or (ne .Params.ad false) .IsHome }}
+
+{{/*
+  <!-- config ads -->
+  <!-- {{ if or (ne .Params.ad false) .IsHome }} -->
+  */}}
+{{ if ne .Params.ad false }}
 {{ partial "adsense.html" . }}
 {{ end }}

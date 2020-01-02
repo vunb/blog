@@ -49,7 +49,7 @@ Integrate $$\int x^3 dx$$
 
 Để đoạn mã trên hoạt động được, thêm cấu hình vào từng bài post cấu hình sau:
 
-```yaml
+```js
 ---
 katex: true
 markup: "mmark"

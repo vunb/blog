@@ -10,5 +10,5 @@
   <!-- {{ if or (ne .Params.ad false) .IsHome }} -->
   */}}
 {{ if and (ne .Params.ad false) (ne .IsHome true) }}
-{{ partial "adsense.html" . }}
+{{/* partial "adsense.html" . */}}
 {{ end }}

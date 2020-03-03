@@ -1,6 +1,6 @@
 ---
 title: Dĩ bất biến, ứng vạn biến
-date: 2020-03-04T00:00:00Z
+date: 2020-03-04T06:55:52+07:00
 draft: false
 share: true
 
@@ -25,7 +25,7 @@ header:
 
 Chủ tịch Hồ Chí Minh – người anh hùng giải phóng dân tộc, nhà chính trị lỗi lạc , danh nhân văn hóa thế giới, đồng thời là nhà ngoại giao kiệt xuất của dân tộc Việt Nam. Để chỉ đạo hoạt động ngoại giao – một lĩnh vực hết sức gian khó do những đặc thù của cách mạng Việt Nam, Hồ Chí Minh đề ra tư tưởng “ Dĩ bất biến, ứng vạn biến”. Nguyên tắc này không chỉ là bí quyết nhận thức , hành động hiệu quả của riêng Hồ Chí Minh mà còn trở thành cẩm nang trong nhận thức, hành động của cách mạng Việt Nam.
 
-# Ý NGHĨA TRONG TƯ TƯỞNG “ DĨ BẤT BIẾN, ỨNG VẠN BIẾN ” CỦA HỒ CHÍ MINH
+# Ý nghĩa trong tư tưởng “ DĨ BẤT BIẾN, ỨNG VẠN BIẾN ” của Hồ Chí Minh
 
 “ Dĩ bất biến, ứng vạn biến” là câu nói nổi tiếng của Chủ tịch Hồ Chí Minh vào tháng 5 – 1946 – thời điểm “Vận mệnh dân tộc ngàn cân treo sợi tóc” mà Người sang Pháp để cứu vãn nền hòa bình . Trước khi đi, người giao quyền chủ tịch nước cho cụ Huỳnh Thúc Kháng với lời dặn dò: “Tôi vì nhiệm vụ quốc dân giao phó phải đi xa ít lâu, ở nhà trăm sự khó khăn nhờ cậy ở Cụ và anh em giải quyết cho. Mong cụ “Dĩ bất biến, ứng vạn biến” (1) – lấy điều không đổi ứng phó với vạn điều thay đổi để thực hiện điều không đổi.
 

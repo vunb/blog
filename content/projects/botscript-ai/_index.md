@@ -5,7 +5,7 @@ summary: 'Mạng kết nối các ứng dụng dựa trên tương tác hội th
 weight: 1
 
 # Page metadata.
-title: BotScript.AI
+title: BotScript.AI - A Chatbot Platform
 date: "2020-03-05T22:27:52+07:00"
 lastmod: "2020-03-05T22:27:52+07:00"
 draft: false  # Is this a draft? true/false
@@ -25,6 +25,8 @@ header:
   caption: "BotScript.AI"
   image: "botscript-ai/botscript.gif"
 ---
+
+![BotScript.AI Project](/img/botscript-ai/botscript.gif)
 
 ## Giới thiệu
 

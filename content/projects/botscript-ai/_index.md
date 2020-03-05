@@ -19,6 +19,11 @@ menu:
   botscript-ai:
     name: Overview
     weight: 1
+
+# Meta for og:image
+header:
+  caption: "BotScript.AI"
+  image: "botscript-ai/botscript.gif"
 ---
 
 ## Giới thiệu

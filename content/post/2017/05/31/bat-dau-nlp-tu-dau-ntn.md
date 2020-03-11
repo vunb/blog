@@ -15,7 +15,7 @@ header:
 ---
 
 
-Có thể bạn đã nghe rất nhiều về `Trí tuệ nhân tạo (AI)`, `Học máy (Machine Learning)`, hay `Xử lý ngôn ngữ tự nhiên (NLP)`. Và rất muốn được tiếp cận nhưng chưa biết phải bắt đầu từ đâu và cách tiếp cận như thế nào ? Bài viết này cũng là bài đầu tiên mà tôi muốn tìm hiểu tổng quan nhất về các lý thuyết, thuật toán và các ứng dụng cụ thể trong một domain nhỏ của **AI**, đó chính là **NLP**. Làm thế nào để máy tính có thể hiểu được ngôn ngữ tự nhiên ? Làm thế nào để máy tính có trí thông minh như con người ?
+Có thể bạn đã nghe rất nhiều về **Trí tuệ nhân tạo (AI)**, **Học máy (Machine Learning)**, hay **Xử lý ngôn ngữ tự nhiên (NLP)**. Và rất muốn được tiếp cận nhưng chưa biết phải bắt đầu từ đâu và cách tiếp cận như thế nào ? Bài viết này cũng là bài đầu tiên mà tôi muốn tìm hiểu tổng quan nhất về các lý thuyết, thuật toán và các ứng dụng cụ thể trong một domain nhỏ của **AI**, đó chính là **NLP**. Làm thế nào để máy tính có thể hiểu được ngôn ngữ tự nhiên ? Làm thế nào để máy tính có trí thông minh như con người ?
 
 Tôi đã từng nghe rằng: Nếu bạn phải **trả lời** lần 2 cho cùng một câu hỏi, thì có lẽ 1 ý tưởng hay là đưa nó vào blog. Theo nguyên tắc này, tôi cũng muốn ghi chép lại các bước, trả lời cho câu hỏi: `Tôi có kiến thức khoa học trong ngành X, và tôi muốn học NLP. Vậy tôi nên bắt đầu từ đâu?`.
 

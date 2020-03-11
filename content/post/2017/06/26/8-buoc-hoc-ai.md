@@ -21,7 +21,7 @@ header:
   image: ""
 ---
 
-Đến giờ tôi vẫn mù mờ rất nhiều về AI và các chương trình học máy, mặc dù năm cuối đại học, kỳ `20121` đã tự tay cài đặt mạng nơ-ron từ đầu bằng `C#` và tham gia một dự án thực tế ở 1 trường ĐH Việt Nam, với đề tài: Dự báo tỉ lệ **NGHỈ HỌC** của học viên chương trình đào tạo từ xa. 
+Đến giờ tôi vẫn mù mờ rất nhiều về AI và các chương trình học máy, mặc dù năm cuối đại học, kỳ **01/2012** đã tự tay cài đặt mạng nơ-ron từ đầu bằng **C#** và tham gia một dự án thực tế ở 1 trường ĐH Việt Nam, với đề tài: Dự báo tỉ lệ **NGHỈ HỌC** của học viên chương trình đào tạo từ xa. 
 
 Kết quả chính mà nhóm chúng tôi đã đạt được bao gồm 2 mô hình và các nhân tố chính ảnh hưởng đến khả năng **NGHỈ HỌC** của học viên, căn cứ dựa trên hồ sơ thông tin.
 

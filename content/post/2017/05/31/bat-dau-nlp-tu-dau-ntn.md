@@ -17,7 +17,7 @@ header:
 
 Có thể bạn đã nghe rất nhiều về `Trí tuệ nhân tạo (AI)`, `Học máy (Machine Learning)`, hay `Xử lý ngôn ngữ tự nhiên (NLP)`. Và rất muốn được tiếp cận nhưng chưa biết phải bắt đầu từ đâu và cách tiếp cận như thế nào ? Bài viết này cũng là bài đầu tiên mà tôi muốn tìm hiểu tổng quan nhất về các lý thuyết, thuật toán và các ứng dụng cụ thể trong một domain nhỏ của **AI**, đó chính là **NLP**. Làm thế nào để máy tính có thể hiểu được ngôn ngữ tự nhiên ? Làm thế nào để máy tính có trí thông minh như con người ?
 
-Tôi đã từng nghe rằng: Nếu bạn phải `trả lời` lần 2 cho cùng một câu hỏi, thì có lẽ 1 ý tưởng hay là đưa nó vào blog. Theo nguyên tắc này, tôi cũng muốn ghi chú lại các bước, câu trả lời cho câu hỏi: `Tôi có kiến thức khoa học trong ngành (*), và tôi muốn học NLP. Vậy tôi nên bắt đầu từ đâu?` Để chúng ta có bước khởi đầu thuận lợi và đầy cảm hứng.
+Tôi đã từng nghe rằng: Nếu bạn phải **trả lời** lần 2 cho cùng một câu hỏi, thì có lẽ 1 ý tưởng hay là đưa nó vào blog. Theo nguyên tắc này, tôi cũng muốn ghi chép lại các bước, trả lời cho câu hỏi: `Tôi có kiến thức khoa học trong ngành X, và tôi muốn học NLP. Vậy tôi nên bắt đầu từ đâu?`.
 
 Sau đây là các phương pháp mà tôi dự định tiếp cận theo cách của [@Melanie Tosik](https://medium.com/@melanietosik) và chia sẻ với các bạn, mà tôi nghĩ chúng ta có thể bắt đầu ngay bằng 1 khóa học căn bản, sau đó tự mình trải nghiệm và cài đặt lại các phương pháp để hiểu hơn về bản chất. Đây có thể đây là kim chỉ nam giúp tôi không bị lệch hướng và cũng hi vọng nó có ích cho những người mới như bạn và tôi:
 
@@ -69,10 +69,10 @@ Kỹ thuật khác
 * [Natural Language Understanding with Distributed Representation](https://github.com/nyu-dl/NLP_DL_Lecture_Note/blob/master/lecture_note.pdf) (Kyunghyun Cho) các ghi chú về ML/NN tiếp cận bài toán Natural Language Understanding (NLU)
 * [Quora: How do I learn Natural Language Processing?](https://www.quora.com/How-do-I-learn-Natural-Language-Processing)
 
-DIY - Dữ liệu và các dự án (mục nhúng tay)
-======================================
+DIY - Dữ liệu và các dự án (Do it yourself)
+===========================================
 
-Với tập dữ liệu được tạo và public bởi **Nicolas Iderhoff**. Chúng ta là những người mới cần phải nhúng tay để thực sự bắt đầu làm việc trong lĩnh vực *NLP*. Dưới đây là danh sách các bài toán `NLP` cần giải được đề xuất bởi [Melanie Tosik](https://medium.com/@melanietosik):
+Với tập dữ liệu được tạo và public bởi **Nicolas Iderhoff**. Chúng ta là những người mới cần phải nhúng tay để thực sự bắt đầu làm việc trong lĩnh vực **NLP**. Dưới đây là danh sách các bài toán NLP cần giải được đề xuất bởi [Melanie Tosik](https://medium.com/@melanietosik):
 
 * Xây dựng bộ [gán nhãn từ loại POS](https://en.wikipedia.org/wiki/Part-of-speech_tagging) (Part-of-Speech) dựa trên [mô hình Markov ẩn](https://en.wikipedia.org/wiki/Hidden_Markov_model) (HMM)
 * Cài đặt thuật toán [CYK](https://en.wikipedia.org/wiki/CYK_algorithm) để phân tích bài toán [phân tích văn phạm phi ngữ cảnh](https://en.wikipedia.org/wiki/Context-free_grammar) (Context-free grammars)

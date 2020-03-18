@@ -28,8 +28,6 @@ header:
 
 ![BotScript.AI Project](/img/botscript-ai/botscript.gif)
 
-## Giới thiệu
-
 Chào bạn,
 
 Mình là Vũ – Founder của dự án **BotScript.AI** và ngôn ngữ lập trình chatbot (BotScript).

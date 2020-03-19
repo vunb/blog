@@ -29,7 +29,7 @@ Về cốt lõi thì NLU là thành phần trong đó có nhiều kỹ thuật x
 
 BotScript bản thân nó đã là một chương trình quản lý hội thoại, việc cần thiết mà tôi vừa làm là đã tích hợp xong thêm 2 đơn vị nhỏ còn lại trong bộ phận NLU này, qua kinh nghiệm xây dựng mã nguồn mở [Rivebot CE](https://github.com/yeuai/rivebot-ce) thì việc triển khai cho BotScript dễ dàng hơn rất nhiều.
 
-Điểm vướng nhất là cả BotScript Platform (**BSP**) và ngôn ngữ đặc tả BotScript Document (**BSD**) đều rất mới, đang ở trong giai đoạn sơ khai nên việc thay đổi và cập nhật khả năng cho nó là rất nhiều. Ví dụ như để làm sao Bot hiểu được lệnh đang đưa vào là một câu nói ở một hình thái khác, tức là bot chỉ có thể hiểu được qua ý định của câu nói mà thôi? BotScript sẽ không thể bắt chính xác được từng chữ cái của người dùng, điều đó sẽ khiến người thiết kế bot phải quan tâm đến rất nhiều tình huống.
+Một điểm thách thức là cả BotScript Platform (**BSP**) và ngôn ngữ đặc tả BotScript Document (**BSD**) đều rất mới, đang ở trong giai đoạn sơ khai nên việc thay đổi và cập nhật khả năng cho nó là rất nhiều. Ví dụ như để làm sao Bot hiểu được lệnh đang đưa vào là một câu nói ở một hình thái khác, tức là bot chỉ có thể hiểu được qua ý định của câu nói mà thôi? BotScript sẽ không thể bắt chính xác được từng chữ cái của người dùng, điều đó sẽ khiến người thiết kế bot phải quan tâm đến rất nhiều tình huống.
 
 Tuy nhiên, tính mới, tính non trẻ đó cũng là một lợi thế để BotScript có thể điều chỉnh thay đổi phù hợp với các kịch bản từ thực tiễn. Nhưng phải đảm bảo được tính tổng quát chức năng của ngôn ngữ đặc tả **BSD**, hay các api của BotScript Engine (**BSE**).
 

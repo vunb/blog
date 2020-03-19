@@ -42,27 +42,27 @@ Như đã chia sẻ lộ trình thử nghiệm hệ thống này đầu tháng 0
 
 Những đóng góp của bạn chắc chắn giúp phát triển hệ thống thông minh này.
 
-Về mục đích dự án:
+## Về mục đích dự án:
 
 * Tạo ra một hệ sinh thái kết nối các ứng dụng dựa trên tương tác hội thoại
 * Tạo ra một chương trình quản lý hội thoại (mã nguồn mở)
 * Đối với hệ thống BotScript.AI đang xem xét mở mã nguồn nếu thực sự có ích cho cộng đồng
 
- 
+## Cơ sở của dự án
 
 Như các bạn đã biết, để tạo ra một chatbot thông minh thực sự thì nó phải giải quyết được các vấn đề sau: 
 
-1.    Trích lục thông tin và tra cứu lịch sử
-2.    Lý luận dựa trên Logic (của ngữ cảnh)
-3.    Có tri thức cơ bản về sự vật hiện tượng
-4.    Có khả năng học tự nhiên để tạo ra tri thức mới
-5.    Có khả năng hòa giải hoặc đàm phán
-6.    Quản lý được trạng thái quan hệ
-7.    Quản lý được hội thoại và các ngoại lệ
-
- 
+1. Trích lục thông tin và tra cứu lịch sử
+2. Lý luận dựa trên Logic (của ngữ cảnh)
+3. Có tri thức cơ bản về sự vật hiện tượng
+4. Có khả năng học tự nhiên để tạo ra tri thức mới
+5. Có khả năng hòa giải hoặc đàm phán
+6. Quản lý được trạng thái quan hệ người - bot
+7. Quản lý được hội thoại và các ngoại lệ
 
 Để dự án có được lộ trình đi đến thành công, mình rất mong muốn được hợp tác với các đơn vị hoặc cá nhân có nhu cầu sử dụng, hoặc nhu cầu đóng góp vào sự phát triển của dự án
+
+## Đề xuất hợp tác
 
 Các hình thức hợp tác như:
 
@@ -71,13 +71,7 @@ Các hình thức hợp tác như:
 * Trở thành cộng tác viên viết các hướng dẫn, lập trình để hoàn thiện các chức năng tối thiểu.
 * Trở thành cộng tác viên làm dữ liệu, tinh chỉnh hệ thống
 
-Các bạn có thể liên hệ với mình bằng cách:
-
-* Email: vunb (at) nodejs (dot) vn hoặc nhubaovu (at) gmail (dot) com
-* Github: https://github.com/vunb
-* Issue Tracking: https://github.com/yeuai/botscript
-* Facebook group: https://facebook.com/groups/BotScript
-
+## Trải nghiệm
 
 Để có được cái nhìn đầu tiên, mời các bạn đăng nhập vào hệ thống.
 
@@ -86,3 +80,12 @@ Các bạn có thể liên hệ với mình bằng cách:
 * Hoặc đăng ký sử dụng email của bạn tại: https://botscript.ai/#/register
 
 Trong quá trình trải nghiệm: Rất mong nhận được sự phản hồi của các bạn!
+
+## Liên hệ
+
+Các bạn có thể liên hệ với mình bằng cách:
+
+* Email: vunb (at) nodejs (dot) vn hoặc nhubaovu (at) gmail (dot) com
+* Github: https://github.com/vunb
+* Issue Tracking: https://github.com/yeuai/botscript
+* Facebook group: https://facebook.com/groups/BotScript

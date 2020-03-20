@@ -34,7 +34,7 @@ Tôi rất vui mừng gửi thông báo phát hành phiên bản **1.3.0** tới
 
 ## Summary Notes
 
-Lần phát hành **1.3.0** các thay đổi tập trung chủ yếu phía Backend, cải tiến khả năng bóc tách thông tin và phát hiện ý định của câu nói của khách hàng.
+Phiên bản **1.3.0** bổ sung plugin mới hỗ trợ việc phân tích ý định, bóc tách thông tin có trong câu nói của khách hàng.
 
 * Tích hợp mới plugin: `nlp`
 * Bổ sung thêm cú pháp để bắt ý định người dùng, từ đó, cho phép người dùng thiết kế kịch bản phù hợp với ý định đó.
@@ -60,11 +60,13 @@ Ví dụ: Một kịch bản bsd được soạn như sau:
 + ner: product_name
 
 ~ ask $product_amount
-- Bạn muốn lấy mấy chiếc
+- Bạn muốn lấy mấy chiếc?
 + ner: product_amount
 ```
 
 Như vậy, khi người dùng nhập: *Tôi muốn mua điện thoại* hoặc *bạn có bán điện thoại không?* thì bot sẽ dẫn nhập và hỏi thêm khách hàng muốn lấy sản phẩm tên là gì, số lượng bao nhiêu, ... kiểm tra đơn giá của giỏ hàng và sau đó phản hồi thông tin về đơn hàng mới cho khách hàng.
+
+Từ đây, đặt ra một vấn đề là khi khách hàng sửa lại thông tin kiểu như: *à, tôi muốn lấy 2 chiếc chứ không phải 1.* Nghe cũng có vẻ khoai phết nhỉ? Có lẽ, nên viết thêm một plugin cho phép bot tra khảo và cập nhật lại các thông tin đã nhận từ bước trước?
 
 ## References
 

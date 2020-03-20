@@ -12,7 +12,7 @@ menu:
     weight: 1
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 1000
 ---
 
 Tôi rất vui mừng gửi thông báo phát hành phiên bản **1.2.0** tới các bạn với một số tính năng mới và cập nhật mới như sau đây:

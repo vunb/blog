@@ -24,6 +24,7 @@ Bạn nghĩ sao nếu ta thiết kế table sử dụng các thẻ **div** kết
 
 Có nhiều bài phân tích về vấn đề này, bạn có thể tham khảo các link sau đây:
 
+* [Replace HTML tables with <div>s](https://html-cleaner.com/features/replace-html-table-tags-with-divs/)
 * [How to create responsive table in modern way](https://medium.com/@snowleo208/how-to-create-responsive-table-d1662cb62075)
 * [Accessible, Simple, Responsive Tables](https://css-tricks.com/accessible-simple-responsive-tables/)
 * [How to create responsive tables with pure CSS using Grid Layout Module](https://www.freecodecamp.org/news/https-medium-com-nakayama-shingo-creating-responsive-tables-with-pure-css-using-the-grid-layout-module-8e0ea8f03e83/)

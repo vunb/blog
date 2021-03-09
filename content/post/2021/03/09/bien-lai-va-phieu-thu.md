@@ -17,7 +17,7 @@ categories:
 - Concept
 ---
 
-# Phân biệt biên lai và phiếu thu mức khai niệm
+Phân biệt biên lai và phiếu thu mức khai niệm
 
 * Biên lai là chứng từ thu tiền phí, lệ phí của đơn vị nhà nước theo quy định của luật Phí và lệ phí xác nhận đã thu 1 khoản tiền.
 * Phiếu thu là giấy xác nhận sử dụng trong doanh nghiệp ngoài nhà nước xác nhận đã thu 1 khoản tiền.

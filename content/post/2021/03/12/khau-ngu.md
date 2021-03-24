@@ -16,6 +16,7 @@ tags:
 - Thuật ngữ
 categories:
 - Concept
+- Term
 ---
 
 **Khẩu ngữ** là ngôn ngữ tồn tại chủ yếu ở dạng nói, được sử dụng để trao đổi tư tưởng, tình cảm trong sinh hoạt hằng ngày. Hình thức thông thường là đối thoại. Có đặc điểm cơ bản: phát ngôn ngắn, đơn giản về cấu trúc, thiên về sắc thái cảm xúc, nhiều biến thể phát âm.

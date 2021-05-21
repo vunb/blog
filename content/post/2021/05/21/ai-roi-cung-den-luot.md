@@ -16,6 +16,11 @@ tags:
 categories:
 - Concept
 - Term
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: "Râu Trắng giao tranh với Gold D. Roger"
+  image: "one-piece/gold-d-roger.jpg"
 ---
 
 Một câu nói của `Gold D. Roger` dành cho những đứa trẻ muốn lên thuyền ra khơi: AI RỒI CŨNG ĐẾN LƯỢT MÌNH!

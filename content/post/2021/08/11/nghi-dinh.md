@@ -20,7 +20,7 @@ Nghị định là (một loại văn bản quy phạm pháp luật của chính
 
 Nghị định của Chính phủ là hình thức văn bản luật quy phạm pháp luật để: quy định chi tiết luật, nghị quyết của Quốc hội, pháp lệnh của Uỷ ban thường vụ Quốc hội, lệnh, quyết định của Chủ tịch nước; quy định nhiệm vụ, quyền hạn tổ chức bộ máy của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và các cơ quan khác thuộc thẩm quyển của Chính phủ thành lập; các biện pháp cụ thể để thực hiện nhiệm vụ, quyền hạn của Chính phủ; quy định những vấn đề hết sức cần thiết nhưng chưa đủ điều kiện xây dựng thành luật hoặc pháp lệnh để đáp ứng yêu cầu quản lí nhà nước. Việc ban hành nghị định này phải được sự đồng ý của Ủy ban thường vụ Quốc hội.
 
-Nghị định của Chính phủ có giá trị pháp lý thấp hơn so với Hiến pháp, luật và pháp lệnh, nhưng cao hơn sơ với những văn bản quy phạm pháp luật khác do cơ quan nhà nước từ cấp bộ đến Hội đồng nhân dân và Uỷ ban nhân dân các cấp ban hành.
+Nghị định của Chính phủ có giá trị pháp lý thấp hơn so với Hiến pháp, luật và pháp lệnh, nhưng cao hơn so với những văn bản quy phạm pháp luật khác do cơ quan nhà nước từ cấp bộ đến Hội đồng nhân dân và Uỷ ban nhân dân các cấp ban hành.
 
 Ví dụ:
 

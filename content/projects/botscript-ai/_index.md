@@ -1,16 +1,16 @@
 ---
 # Course title, summary, and position.
-linktitle: 'BotScript.AI'
-summary: 'Mạng kết nối các ứng dụng dựa trên tương tác hội thoại'
+linktitle: "BotScript.AI"
+summary: "Mạng kết nối các ứng dụng dựa trên tương tác hội thoại"
 weight: 1
 
 # Page metadata.
 title: BotScript.AI - A Chatbot Platform
 date: "2020-03-05T22:27:52+07:00"
 lastmod: "2020-03-05T22:27:52+07:00"
-draft: false  # Is this a draft? true/false
-toc: true  # Show table of contents? true/false
-type: docs  # Do not modify.
+draft: false # Is this a draft? true/false
+toc: true # Show table of contents? true/false
+type: docs # Do not modify.
 
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
@@ -44,13 +44,13 @@ Những đóng góp của bạn chắc chắn giúp phát triển hệ thống t
 
 ## Về mục đích dự án:
 
-* Tạo ra một hệ sinh thái kết nối các ứng dụng dựa trên tương tác hội thoại
-* Tạo ra một chương trình quản lý hội thoại (mã nguồn mở)
-* Đối với hệ thống BotScript.AI đang xem xét mở mã nguồn nếu thực sự có ích cho cộng đồng
+- Tạo ra một hệ sinh thái kết nối các ứng dụng dựa trên tương tác hội thoại
+- Tạo ra một chương trình quản lý hội thoại (mã nguồn mở)
+- Đối với hệ thống BotScript.AI đang xem xét mở mã nguồn nếu thực sự có ích cho cộng đồng
 
 ## Cơ sở của dự án
 
-Như các bạn đã biết, để tạo ra một chatbot thông minh thực sự thì nó phải giải quyết được các vấn đề sau: 
+Như các bạn đã biết, để tạo ra một chatbot thông minh thực sự thì nó phải giải quyết được các vấn đề sau:
 
 1. Trích lục thông tin và tra cứu lịch sử
 2. Lý luận dựa trên Logic (của ngữ cảnh)
@@ -66,18 +66,18 @@ Như các bạn đã biết, để tạo ra một chatbot thông minh thực s�
 
 Các hình thức hợp tác như:
 
-* Sử dụng như một khách hàng thân thiết (có phản hồi tích cực cho hệ thống)
-* Ủng hộ một khoản tiền nhỏ, nhiều hay ít cũng rất thiết thực
-* Trở thành cộng tác viên viết các hướng dẫn, lập trình để hoàn thiện các chức năng tối thiểu.
-* Trở thành cộng tác viên làm dữ liệu, tinh chỉnh hệ thống
+- Sử dụng như một khách hàng thân thiết (có phản hồi tích cực cho hệ thống)
+- Ủng hộ một khoản tiền nhỏ, nhiều hay ít cũng rất thiết thực
+- Trở thành cộng tác viên viết các hướng dẫn, lập trình để hoàn thiện các chức năng tối thiểu.
+- Trở thành cộng tác viên làm dữ liệu, tinh chỉnh hệ thống
 
 ## Trải nghiệm
 
 Để có được cái nhìn đầu tiên, mời các bạn đăng nhập vào hệ thống.
 
-* Địa chỉ: https://botscript.ai
-* Tài khoản: demo/demo
-* Hoặc đăng ký sử dụng email của bạn tại: https://botscript.ai/#/register
+- Địa chỉ: https://botscript.ai
+- Tài khoản: demo/demo
+- Hoặc đăng ký sử dụng email của bạn tại: https://botscript.ai/#/register
 
 Trong quá trình trải nghiệm: Rất mong nhận được sự phản hồi của các bạn!
 
@@ -85,7 +85,7 @@ Trong quá trình trải nghiệm: Rất mong nhận được sự phản hồi 
 
 Các bạn có thể liên hệ với mình bằng cách:
 
-* Email: vunb (at) nodejs (dot) vn hoặc nhubaovu (at) gmail (dot) com
-* Github: https://github.com/vunb
-* Issue Tracking: https://github.com/yeuai/botscript
-* Facebook group: https://facebook.com/groups/BotScript
+- Email: vunb (at) nodejs (dot) vn hoặc nhubaovu (at) gmail (dot) com
+- Github: https://github.com/vunb
+- Issue Tracking: https://github.com/yeuai/botscript
+- Facebook group: https://facebook.com/groups/BotScriptAI
